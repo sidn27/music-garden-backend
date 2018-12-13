@@ -3,7 +3,7 @@
 This is the Flask web server that provides APIs to browse the music library for our android application. </br>
 The server handles user authentication and data entry as well. </br>
 
-Instructions
+Instructions </br>
 1.) Create a file under the root folder with the name information.py which should contain the following string variables: DB_USER, DB_PASSWORD, DB_INSTANCE, DB_DATABASE pertaining to your database. </br>
 
 2.) Create virtual env.
